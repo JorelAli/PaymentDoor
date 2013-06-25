@@ -1,0 +1,5 @@
+name: PaymentDoors
+main: com.droppages.Skepter.PaymentDoors
+version: [1.1]
+author: Skepter
+description: Open Doors with XP
